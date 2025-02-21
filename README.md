@@ -2,7 +2,7 @@
 
 A comprehensive desktop application that simulates the real-world process of obtaining, renewing, and replacing driving licenses. Built to be used by government employees, the system helps manage citizens and foreigners applying for various classes of driving licenses.
 
-![Driving License Database Diagram](https://user-images.githubusercontent.com/11928039/133873995-6a1a4fca-c08e-4083-b08d-cb224997d47d.png)
+![Driving License Database Diagram](https://github.com/Reisha76/Driving-License-Management-System/blob/main/Database_RelationalSchema.png?raw=true)
 
 ---
 
