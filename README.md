@@ -142,13 +142,13 @@ These rules ensure the system accurately reflects real-world regulations and fos
 Below are a few screenshots illustrating core parts of the application:
 
 1. **Main Dashboard**  
-   ![Main Dashboard Screenshot](https://user-images.githubusercontent.com/11928039/134011045-94b71842-9bfa-4bb9-8e54-660ba30c7f32.png](https://github.com/Reisha76/Driving-License-Management-System/blob/12c104b2d0e485ec36e4d35c7d0d9819b3af5a40/MAIN.png)
+   ![Main Dashboard Screenshot](https://github.com/Reisha76/Driving-License-Management-System/blob/main/MAIN.png?raw=true)
 
 2. **License Creation Form**  
-   ![License Creation Form](https://user-images.githubusercontent.com/11928039/134011148-fb957d09-3798-49ef-8c25-693d3cb8fdd2.png](https://github.com/Reisha76/Driving-License-Management-System/blob/12c104b2d0e485ec36e4d35c7d0d9819b3af5a40/Add%20local%20license.png)
+   ![License Creation Form](https://github.com/Reisha76/Driving-License-Management-System/blob/main/Add%20local%20license.png?raw=true)
 
 3. **People Management**  
-   ![People Management Screenshot](https://user-images.githubusercontent.com/11928039/134011209-4ebca3af-df08-4f2b-8df6-6ac1c4af51a5.png](https://github.com/Reisha76/Driving-License-Management-System/blob/12c104b2d0e485ec36e4d35c7d0d9819b3af5a40/People.png)
+   ![People Management Screenshot](https://github.com/Reisha76/Driving-License-Management-System/blob/main/People.png?raw=true)
 
 ---
 
